@@ -1,7 +1,7 @@
 package bankInfo;
 
 public abstract class bankAccount {
-private int accno=1000;
+private int accno=9467521;
 private double balance=1000;
 public abstract void deposite(int amount);
 public abstract void withdraw( int amount);
