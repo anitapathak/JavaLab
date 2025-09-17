@@ -87,6 +87,8 @@ public class Classwork implements ActionListener{
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        JOptionPane.showMessageDialog(frame,"Form submited!", "Form Submission", JOptionPane.INFORMATION_MESSAGE);
+    JOptionPane.showMessageDialog(frame,"form is sucessfully submitted","Form submission",JOptionPane.INFORMATION_MESSAGE);
     }
+
+
 }
